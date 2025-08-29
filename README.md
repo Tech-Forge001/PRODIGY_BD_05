@@ -54,23 +54,35 @@ npx nodemon server.js
 ✅ Server will start on http://localhost:5000
 
 🗂 API Endpoints
+
 🔑 Auth Routes
+
 Method	Endpoint	Description
+
 POST	/api/auth/register	Register a new user
+
 POST	/api/auth/login	Login user & get JWT token
 
 🏨 Hotel Routes
+
 Method	Endpoint	Description
+
 POST	/api/hotels	Add a new hotel
+
 GET	/api/hotels	Get all hotels
+
 GET	/api/hotels/:id	Get hotel by ID
 
 📑 Booking Routes
+
 Method	Endpoint	Description
+
 POST	/api/bookings	Create a booking
+
 GET	/api/bookings	Get all bookings
 
 📝 Testing with Postman
+
 Import the Postman collection (hotel-booking-api.postman_collection.json).(Provided in the repository)
 
 Register a new user → Login → Copy JWT token.
