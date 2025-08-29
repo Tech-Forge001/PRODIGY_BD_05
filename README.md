@@ -32,8 +32,10 @@ It allows users to register, login, browse hotels, and make bookings.
 ### 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/hotel-booking-api.git
 cd hotel-booking-api
+
 2️⃣ Install Dependencies
 npm install
+
 3️⃣ Setup Environment Variables
 Create a .env file in the root directory (use .env.example as reference):
 
@@ -48,6 +50,7 @@ PORT=5000
 node server.js
 or with nodemon:
 npx nodemon server.js
+
 ✅ Server will start on http://localhost:5000
 
 🗂 API Endpoints
@@ -115,8 +118,11 @@ hotel-booking-api/
 
 	Clean Project Structuring
 
+
 📌 Author
+
 👤 Aastha Pathak
+
 🔗 GitHub: Tech_Forge001
 
 
