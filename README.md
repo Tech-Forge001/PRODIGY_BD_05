@@ -123,7 +123,7 @@ hotel-booking-api/
 
 👤 Aastha Pathak
 
-🔗 GitHub: Tech_Forge001
+🔗 GitHub: Tech-Forge001
 
 
 
